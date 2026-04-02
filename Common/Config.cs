@@ -8,5 +8,6 @@ namespace PG_29.Common
 {
     class Config
     {
+
     }
 }
