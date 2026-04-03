@@ -24,6 +24,7 @@ namespace PG_29.Pages.Clubs
         /// </summary>
         Main Main;
 
+
         /// <summary> Данные клуба
         /// </summary>
         Models.Clubs Club;
